@@ -1,2 +1,28 @@
-# Fusion360-3D-Parametric-CAD
-Parametric 3D CAD models, STEP exchange files, and renders built using Autodesk Fusion 360.
+# 3D Parametric CAD
+
+Welcome to my repository for computer-aided design and parametric modeling! This repository tracks my progression as I build a strong foundation in 3D CAD modeling fundamentals using Autodesk Fusion 360, tailored for mechanical and aerospace engineering applications.
+
+---
+
+## 🚀 Projects Included
+
+* **Standard 2x4 Lego Brick**
+  * **Description:** A fully parametric 3D model of a classic 2x4 Lego brick designed with exact wall thickness optimization, top connection studs, and hollow under-side alignment tubes for interlocking functionality.
+  * **Concepts Used:** Fully defined parametric sketches, base extrusions (join/cut), shell command, rectangular patterning, and edge filleting.
+  * **Folder:** `Day01-Lego-Block/`
+
+---
+
+## 🛠️ Skills Covered
+
+* 2D Parametric Sketching & Constraint Systems
+* Solid Body Feature Operations (Extrude, Cut, Revolve)
+* Structural Shelling & Uniform Wall Optimization
+* Feature Duplication via Rectangular & Circular Patterns
+* CAD File Exporting & Multi-Format Management (.f3d, .step, .stl)
+
+---
+
+## 📈 Future Goals
+
+As I advance through core CAD operations and feature-based modeling, this repository will evolve from basic components to complex mechanical assemblies, parametric mechanism joints, dynamic motion links, and surface modeling for aeronautical design.
