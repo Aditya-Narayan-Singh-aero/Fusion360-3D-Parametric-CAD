@@ -11,15 +11,21 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Fully defined parametric sketches, base extrusions (join/cut), shell command, rectangular patterning, and edge filleting.
   * **Folder:** `Day01-Lego-Block/`
 
+* **Glass Soda Bottle**
+  * **Description:** A 3D model of a standard glass soda bottle created by calibrating a reference canvas image, tracing its outer profile, and revolving it around a central axis to achieve precise rotational symmetry and wall shelling.
+  * **Concepts Used:** Canvas image insertion & calibration, centerline construction, spline sketch modeling, revolve operation, and uniform shelling.
+  * **Folder:** `Day02-Soda-Glass-Bottle/`
+
 ---
 
 ## 🛠️ Skills Covered
 
 * 2D Parametric Sketching & Constraint Systems
+* Reference Canvas Calibration & Tracing
 * Solid Body Feature Operations (Extrude, Cut, Revolve)
 * Structural Shelling & Uniform Wall Optimization
 * Feature Duplication via Rectangular & Circular Patterns
-* CAD File Exporting & Multi-Format Management (.f3d, .step, .stl)
+* CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
 
 ---
 
