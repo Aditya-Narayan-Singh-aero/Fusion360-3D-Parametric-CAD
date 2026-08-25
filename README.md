@@ -16,13 +16,18 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Canvas image insertion & calibration, centerline construction, spline sketch modeling, revolve operation, and uniform shelling.
   * **Folder:** `Day02-Soda-Glass-Bottle/`
 
+* **Standard Paperclip**
+  * **Description:** A precise 3D model of a standard paperclip created by defining a continuous multi-arc 2D path and sweeping a circular cross-section along the trajectory.
+  * **Concepts Used:** Tangent arc construction, continuous line-arc pathing, sweep feature, and profile orientation control.
+  * **Folder:** `Day03-Paperclip/`
+
 ---
 
 ## 🛠️ Skills Covered
 
 * 2D Parametric Sketching & Constraint Systems
 * Reference Canvas Calibration & Tracing
-* Solid Body Feature Operations (Extrude, Cut, Revolve)
+* Solid Body Feature Operations (Extrude, Cut, Revolve, Sweep)
 * Structural Shelling & Uniform Wall Optimization
 * Feature Duplication via Rectangular & Circular Patterns
 * CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
