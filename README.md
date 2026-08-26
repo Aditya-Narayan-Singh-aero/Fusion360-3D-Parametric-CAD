@@ -21,15 +21,22 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Tangent arc construction, continuous line-arc pathing, sweep feature, and profile orientation control.
   * **Folder:** `Day03-Paperclip/`
 
+* **Complex Glass Bottle**
+  * **Description:** An advanced 3D parametric model of an intricate glass bottle featuring multi-section profiles, complex ergonomic surface curvature, threaded neck detailing, and precise wall thickness control.
+  * **Concepts Used:** Construction planes, loft operations with guide rails, thread creation, advanced spline manipulation, offset surface/shelling, and aesthetic filleting.
+  * **Folder:** `Day04-Complex-Glass-Bottle/`
+
 ---
 
 ## 🛠️ Skills Covered
 
 * 2D Parametric Sketching & Constraint Systems
 * Reference Canvas Calibration & Tracing
-* Solid Body Feature Operations (Extrude, Cut, Revolve, Sweep)
+* Solid Body Feature Operations (Extrude, Cut, Revolve, Sweep, Loft)
+* Multi-Plane Construction & Surface Lofting
 * Structural Shelling & Uniform Wall Optimization
 * Feature Duplication via Rectangular & Circular Patterns
+* Thread Modeling & Technical Ergonomics
 * CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
 
 ---
