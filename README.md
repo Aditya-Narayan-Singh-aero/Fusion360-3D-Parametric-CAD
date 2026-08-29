@@ -26,6 +26,11 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Construction planes, loft operations with guide rails, thread creation, advanced spline manipulation, offset surface/shelling, and aesthetic filleting.
   * **Folder:** `Day04-Complex-Glass-Bottle/`
 
+* **Flexible Ice Cube Tray**
+  * **Description:** A parametric model of an ice cube tray featuring uniform compartment arrays, drafted sidewalls for easy ice release, and optimized lip borders for structural rigidity.
+  * **Concepts Used:** Base extrusions with draft angles, rectangular array patterning, uniform wall shelling, and internal/external edge filleting.
+  * **Folder:** `Day05-Ice-Cube-Tray/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -36,6 +41,7 @@ Welcome to my repository for computer-aided design and parametric modeling! This
 * Multi-Plane Construction & Surface Lofting
 * Structural Shelling & Uniform Wall Optimization
 * Feature Duplication via Rectangular & Circular Patterns
+* Draft Angle Application for Manufacturability & Molding
 * Thread Modeling & Technical Ergonomics
 * CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
 
