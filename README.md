@@ -35,6 +35,7 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Description:** A standard metric hex nut model featuring an extruded hexagonal outer boundary, a central threaded clearance bore, and chamfered edges for manufacturing alignment.
   * **Concepts Used:** Circumscribed polygon sketching, cylindrical extrusion, hole & thread modeling (ISO Metric profile), and 45° edge chamfering.
   * **Folder:** `Day06-Hex-Nut/`
+
 ---
 
 ## 🛠️ Skills Covered
