@@ -36,6 +36,11 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Circumscribed polygon sketching, cylindrical extrusion, hole & thread modeling (ISO Metric profile), and 45° edge chamfering.
   * **Folder:** `Day06-Hex-Nut/`
 
+* **Ergonomic Bike Handlebar Grip**
+  * **Description:** An ergonomic bicycle handlebar grip featuring a textured non-slip circumferential ribbed pattern, an integrated inner end-flange safety guard, a standard clearance inner bore, and custom raised lettering ("Aditya N.").
+  * **Concepts Used:** Profile sketching, revolving/extruding base geometry, linear/rectangular feature patterning along the longitudinal axis, edge filleting for stress relief, and profile projecting/text extrusion.
+  * **Folder:** `Day07-Bike-Handlebar-Grip/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -46,6 +51,7 @@ Welcome to my repository for computer-aided design and parametric modeling! This
 * Multi-Plane Construction & Surface Lofting
 * Structural Shelling & Uniform Wall Optimization
 * Feature Duplication via Rectangular & Circular Patterns
+* Surface Patterning & Ergonomic Contact Texturing
 * Draft Angle Application for Manufacturability & Molding
 * Thread Modeling & Technical Ergonomics
 * CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
