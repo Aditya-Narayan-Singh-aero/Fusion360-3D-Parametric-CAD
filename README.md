@@ -41,6 +41,11 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Profile sketching, revolving/extruding base geometry, linear/rectangular feature patterning along the longitudinal axis, edge filleting for stress relief, and profile projecting/text extrusion.
   * **Folder:** `Day07-Bike-Handlebar-Grip/`
 
+* **Door Stop**
+  * **Description:** A functional parametric door stop designed as a compact wedge-shaped component for preventing a door from closing, with a manufacturable solid form and smoothly finished edges.
+  * **Concepts Used:** Parametric sketching, constrained profile definition, extrusion, draft or angled face modeling, and edge filleting for safe handling.
+  * **Folder:** `Day08-DoorStop/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -54,6 +59,7 @@ Welcome to my repository for computer-aided design and parametric modeling! This
 * Surface Patterning & Ergonomic Contact Texturing
 * Draft Angle Application for Manufacturability & Molding
 * Thread Modeling & Technical Ergonomics
+* Wedge and Functional Component Design
 * CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
 
 ---
