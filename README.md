@@ -46,6 +46,11 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Parametric sketching, constrained profile definition, extrusion, draft or angled face modeling, and edge filleting for safe handling.
   * **Folder:** `Day08-DoorStop/`
 
+* **Light Bulb**
+  * **Description:** A detailed parametric light bulb model featuring a rotationally symmetric glass envelope and a threaded metallic base representing the primary geometry of a standard screw-fit bulb.
+  * **Concepts Used:** Revolved profile modeling, shelling for wall thickness, threaded feature creation, circular patterning, and edge filleting.
+  * **Folder:** `Day09-LightBulb/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -60,6 +65,7 @@ Welcome to my repository for computer-aided design and parametric modeling! This
 * Draft Angle Application for Manufacturability & Molding
 * Thread Modeling & Technical Ergonomics
 * Wedge and Functional Component Design
+* Revolved Consumer Product Modeling
 * CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
 
 ---
