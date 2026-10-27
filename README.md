@@ -51,6 +51,11 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Revolved profile modeling, shelling for wall thickness, threaded feature creation, circular patterning, and edge filleting.
   * **Folder:** `Day09-LightBulb/`
 
+* **Dog Bowl**
+  * **Description:** A parametric pet bowl model with a rotationally symmetric basin, raised rim, and smooth transitions designed for stable, easy-to-clean use.
+  * **Concepts Used:** Revolved profile modeling, shelling for controlled wall thickness, circular symmetry, filleting, and ergonomic form development.
+  * **Folder:** `Day10-DogBowl/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -66,6 +71,7 @@ Welcome to my repository for computer-aided design and parametric modeling! This
 * Thread Modeling & Technical Ergonomics
 * Wedge and Functional Component Design
 * Revolved Consumer Product Modeling
+* Ergonomic Product and Pet-Accessory Design
 * CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
 
 ---
