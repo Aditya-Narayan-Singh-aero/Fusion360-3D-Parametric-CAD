@@ -56,6 +56,11 @@ Welcome to my repository for computer-aided design and parametric modeling! This
   * **Concepts Used:** Revolved profile modeling, shelling for controlled wall thickness, circular symmetry, filleting, and ergonomic form development.
   * **Folder:** `Day10-DogBowl/`
 
+* **Screwdriver**
+  * **Description:** A parametric screwdriver model combining an ergonomic handle with a cylindrical driver shaft for a practical hand-tool form.
+  * **Concepts Used:** Revolved handle profiles, extrusions, circular and linear feature patterning, shaft detailing, filleting, and ergonomic solid modeling.
+  * **Folder:** `Day11-ScrewDriver/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -72,6 +77,7 @@ Welcome to my repository for computer-aided design and parametric modeling! This
 * Wedge and Functional Component Design
 * Revolved Consumer Product Modeling
 * Ergonomic Product and Pet-Accessory Design
+* Hand-Tool and Ergonomic Grip Design
 * CAD File Exporting & Multi-Format Management (.f3d, .step, .stl, .obj)
 
 ---
